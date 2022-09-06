@@ -5,7 +5,20 @@ public class Main {
         System.out.println(name);
     }
 
+    public static void calc(int[] x) {
+        int i;
+        int sum = 0;
+        for (i = 0; i < x.length; i++) {
+            sum += x[i];
+        }
+
+        System.out.println("平均点は" + sum / x.length + "です");
+    }
+
     public static void main(String[] args) {
+        int[] score = { 20, 30, 40, 50, 80 };
+        calc(score);
+
         hello("katayama");
         String s1 = "Hello";
         String s2 = "Hello";
@@ -18,7 +31,7 @@ public class Main {
         for (int i = 0; i < 100; i++) {
             sb.append(i);
         }
-        System.out.println(sb.toString());
+        // System.out.println(sb.toString());
 
         Date now = new Date();
         System.out.println(now);
