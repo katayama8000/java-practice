@@ -9,5 +9,10 @@ public class Main {
         else {
             System.out.println("s1 and s2 are not equal");
         }
+        StringBuilder sb = new StringBuilder();
+        for (int i = 0; i < 100; i++) {
+            sb.append(i);
+        }
+        System.out.println(sb.toString());
     }
 }
