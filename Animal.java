@@ -2,12 +2,12 @@ abstract class Animal {
     protected String name = "sss";
     protected int age;
 
-    // public Animal(String name, int age) {
-    // this.name = name;
-    // this.age = age;
-    // }
+    public Animal(String name, int age) {
+        this.name = name;
+        this.age = age;
+    }
 
-    protected void say() {
+    public void say() {
         System.out.println("My name is " + name + ", " + age + " years old.");
     }
 

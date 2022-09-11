@@ -1,8 +1,8 @@
-public class AnimalDog extends Animal {
+public class AnimalDog extends Animal implements AnimalInterface {
 
-    // public AnimalDog(String name, int age) {
-    // super(name, age);
-    // }
+    public AnimalDog(String name, int age) {
+        super(name, age);
+    }
 
     public void say() {
         System.out.println("継承したクラス" + this.name);

@@ -9,7 +9,7 @@ public class Main {
         Getset getset = new Getset();
         getset.setName("yamada");
         System.out.println(getset.getName());
-        AnimalDog animalDog = new AnimalDog();
+        AnimalDog animalDog = new AnimalDog("tama", 3);
         animalDog.say();
         animalDog.sayBow("tanaka");
     }
