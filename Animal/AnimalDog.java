@@ -1,4 +1,6 @@
-public class AnimalDog extends Animal implements AnimalInterface {
+package Animal;
+
+public class AnimalDog extends Animal implements AnimalInterface, AnimalInterface2 {
 
     public AnimalDog(String name, int age) {
         super(name, age);

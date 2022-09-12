@@ -1,3 +1,5 @@
+package Practice;
+
 public class Getset {
 
     private String name = "tama";

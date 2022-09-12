@@ -1,3 +1,5 @@
+package Animal;
+
 public interface AnimalInterface {
 
     // interfaceの特徴
@@ -6,8 +8,5 @@ public interface AnimalInterface {
     // 3.複数のインターフェースを継承できる
     // 4.インターフェースは実装クラスで実装する必要がある
 
-    public abstract void say();
-
     public abstract void sayBow(String name);
-
 }

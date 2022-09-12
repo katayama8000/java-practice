@@ -1,3 +1,5 @@
+package Animal;
+
 abstract class Animal {
     protected String name = "sss";
     protected int age;

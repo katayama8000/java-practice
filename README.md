@@ -11,3 +11,13 @@ javac xxx.java
 ```
 java xxx
 ```
+
+フォルダ分けた場合
+
+```
+javac zzz/yyy/xxx.java
+```
+
+```
+java zzz/yyy/xxx.java
+```
