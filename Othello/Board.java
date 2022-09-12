@@ -8,9 +8,9 @@ public class Board {
     // オセロ版に対応した多次元配列
     static String[][] board = new String[8][8];
 
-    static final String EMPTY = "　";
-    static final String BLACK = "●";
-    static final String WHITE = "○";
+    static final String EMPTY = "  ";
+    static final String BLACK = " ●";
+    static final String WHITE = " ○";
 
     static String stone;
     static String rev_stone;
