@@ -19,5 +19,5 @@ javac zzz/yyy/xxx.java
 ```
 
 ```
-java zzz/yyy/xxx.java
+java zzz/yyy/xxx
 ```
