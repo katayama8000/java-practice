@@ -1,4 +1,4 @@
-package Youtube.Lesson4;
+package Youtube.Lesson47;
 
 public class Student6 {
     private String name;
