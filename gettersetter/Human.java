@@ -26,4 +26,16 @@ public class Human {
     public int getAge() {
         return this.age;
     }
+
+    public void setAge(int age) {
+        this.age = age;
+    }
+
+    public int getCresit_card_number() {
+        return this.cresit_card_number;
+    }
+
+    public void setCresit_card_number(int cresit_card_number) {
+        this.cresit_card_number = cresit_card_number;
+    }
 }
