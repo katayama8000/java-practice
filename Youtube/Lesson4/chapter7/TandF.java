@@ -1,4 +1,4 @@
-package Youtube.Lesson47;
+package Youtube.Lesson4.chapter7;
 
 public class TandF extends Club {
     public TandF(String name) {

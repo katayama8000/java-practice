@@ -1,4 +1,4 @@
-package Youtube.Lesson46;
+package Youtube.Lesson4.chapter6;
 
 public class Student extends Person {
     private String name;

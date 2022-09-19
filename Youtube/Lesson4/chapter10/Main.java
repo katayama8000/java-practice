@@ -1,4 +1,4 @@
-package Youtube.Lesson410;
+package Youtube.Lesson4.chapter10;
 
 public class Main {
     public static void main(String[] args) {

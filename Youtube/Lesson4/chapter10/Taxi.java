@@ -1,8 +1,8 @@
-package Youtube.Lesson410;
+package Youtube.Lesson4.chapter10;
 
-public class Train extends Vehicle {
+public class Taxi extends Vehicle {
 
-    public Train(int crewnum) {
+    public Taxi(int crewnum) {
         this.crewnum = crewnum;
     }
 

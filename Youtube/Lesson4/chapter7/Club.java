@@ -1,4 +1,4 @@
-package Youtube.Lesson47;
+package Youtube.Lesson4.chapter7;
 
 public abstract class Club {
     private String name;
