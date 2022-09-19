@@ -1,4 +1,4 @@
-package Othello;
+package Sample.Othello;
 
 public class Board {
 

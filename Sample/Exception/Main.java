@@ -1,4 +1,4 @@
-package Exception;
+package Sample.Exception;
 
 import java.util.*;
 

@@ -1,4 +1,4 @@
-package Practice;
+package Sample.Practice;
 
 public class Getset {
 

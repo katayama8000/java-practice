@@ -1,4 +1,4 @@
-package Capsule;
+package Sample.Capsule;
 
 public interface SampleInterface {
     default void method() {

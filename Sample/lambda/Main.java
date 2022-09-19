@@ -1,4 +1,4 @@
-package lambda;
+package Sample.lambda;
 
 public class Main {
 

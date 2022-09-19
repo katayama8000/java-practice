@@ -1,4 +1,4 @@
-package gettersetter;
+package Sample.gettersetter;
 
 public class Human {
     private String name;

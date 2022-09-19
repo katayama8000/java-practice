@@ -1,4 +1,4 @@
-package Animal;
+package Sample.Animal;
 
 abstract class Animal {
     protected String name = "sss";

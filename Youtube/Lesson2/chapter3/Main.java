@@ -11,6 +11,9 @@ public class Main {
         char bloodType = 'A';
 
         String name = "Taro";
+
+        System.out.println(
+                month + "月" + day + "日" + name + "の体重は" + weight + "kg、身長は" + height + "cm、血液型は" + bloodType + "型です。");
     }
 
 }

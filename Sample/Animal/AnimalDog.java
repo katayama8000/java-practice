@@ -1,4 +1,4 @@
-package Animal;
+package Sample.Animal;
 
 public class AnimalDog extends Animal implements AnimalInterface, AnimalInterface2 {
 

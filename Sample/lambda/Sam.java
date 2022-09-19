@@ -1,4 +1,4 @@
-package lambda;
+package Sample.lambda;
 
 //抽象メソッドを一つしか含まないインターフェイス
 public interface Sam {

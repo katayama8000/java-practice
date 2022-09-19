@@ -1,4 +1,4 @@
-package gettersetter;
+package Sample.gettersetter;
 
 public class Main {
     public static void main(String[] args) {

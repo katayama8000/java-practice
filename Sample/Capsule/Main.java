@@ -1,4 +1,4 @@
-package Capsule;
+package Sample.Capsule;
 
 public class Main {
     public static void main(String[] args) {

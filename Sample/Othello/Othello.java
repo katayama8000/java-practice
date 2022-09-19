@@ -1,4 +1,4 @@
-package Othello;
+package Sample.Othello;
 
 import java.util.Scanner;
 

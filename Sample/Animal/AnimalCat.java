@@ -1,4 +1,4 @@
-package Animal;
+package Sample.Animal;
 
 public class AnimalCat implements AnimalInterface, AnimalInterface2 {
 

@@ -1,4 +1,4 @@
-package Capsule;
+package Sample.Capsule;
 
 import java.util.*;
 

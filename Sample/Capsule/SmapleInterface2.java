@@ -1,4 +1,4 @@
-package Capsule;
+package Sample.Capsule;
 
 public interface SmapleInterface2 extends SampleInterface {
     public abstract void say();
