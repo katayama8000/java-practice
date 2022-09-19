@@ -21,3 +21,5 @@ javac zzz/yyy/xxx.java
 ```bash
 java zzz/yyy/xxx
 ```
+
+[education.oracle.com](https://education.oracle.com/ja/java-se-8-programmer-i/pexam_1Z0-808)
