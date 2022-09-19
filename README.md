@@ -9,7 +9,7 @@ javac xxx.java
 実行
 
 ```
-java xxx.java
+java xxx
 ```
 
 フォルダ分けた場合
