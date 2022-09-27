@@ -1,4 +1,4 @@
-package JavaSE11Silver_BLACK.capture1;
+package JavaSE11Silver_BLACK.chapter1;
 
 public class Main {
     public static void main(String[] strings) {
