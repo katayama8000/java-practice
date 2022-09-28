@@ -1,0 +1,2 @@
+- int/short/long/byte/float/double/char/boolean など
+- キャスト
