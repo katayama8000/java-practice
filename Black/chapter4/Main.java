@@ -1,4 +1,4 @@
-package JavaSE11Silver_BLACK.chapter4;
+package Black.chapter4;
 
 public class Main {
     public static void main(String[] args) {
