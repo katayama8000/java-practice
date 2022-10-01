@@ -1,3 +1,4 @@
 - int/short/long/byte/float/double/char/boolean など
 - キャスト
 - String と StringBuilder/StringBuffer の違い
+- 初期化子
