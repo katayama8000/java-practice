@@ -26,5 +26,9 @@ public class Main {
 
         Sample4 sample4 = new Sample4();
 
+        Sample5 sample5 = new Sample5(3);
+        sample5.num = 10;
+        System.out.println(sample5.num);
+
     }
 }

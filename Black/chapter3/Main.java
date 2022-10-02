@@ -9,6 +9,10 @@ public class Main {
         System.out.println(a.equals(b));
         System.out.println(a == b);
         System.out.println(a == c);
+
+        String str1 = new String("sample");
+        String str2 = new String("sample");
+        System.out.println(str1.intern() == str2.intern());
     }
 
 }

@@ -35,5 +35,25 @@ public class Main {
         }
         System.out.println(num2);
 
+        System.out.println("--------------------");
+
+        int total = 0;
+        a: for (int i = 0; i < 5; i++) {
+            b: for (int j = 0; j < 5; j++) {
+                if (i % 2 == 0) {
+                    System.out.println(i + "/i % 2/ " + j);
+                    continue a;
+                }
+                if (3 < j) {
+                    System.out.println(i + "/3 < j/ " + j);
+                    break;
+                }
+
+                total += j;
+                System.out.println(i + "/total += j/ " + j);
+            }
+        }
+        System.out.println(total);
+
     }
 }
