@@ -13,3 +13,9 @@ System.out.println(str1 == str2); // true
 System.out.println(str1 == str3); // false
 System.out.println(str1.equals(str3)); // true
 ```
+
+#### オーバーロード
+
+- 引数、型、順番が違うメソッドを同じ名前で定義すること。
+- 戻り値の型は関係ない。
+- アクセス修飾子は関係ない。
