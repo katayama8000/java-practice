@@ -7,9 +7,7 @@ public class Sample {
         this.num = num;
     }
 
-    // オーバーロード
     public boolean equals(Sample obj) {
-        System.out.println("wwwwwwwwwwwwwwww");
         if (obj == null) {
             return false;
         }
