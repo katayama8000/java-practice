@@ -9,10 +9,11 @@ public class Sample {
 
     public boolean equals(Sample obj) {
         if (obj == null) {
+            System.out.println("obj is null");
             return false;
         }
 
-        System.out.println(this.num + "2" + obj.num);
+        System.out.println(this.num + "//" + obj.num);
         return this.num == obj.num;
     }
 }
