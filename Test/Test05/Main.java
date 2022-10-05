@@ -15,6 +15,16 @@ public class Main {
         s1.hello();
         s1.greet1();
 
+        System.out.println("-----------------");
+
+        // ダウンキャスト
+        Sample1 s1_New = (Sample1) s2;
+        s1_New.hello();
+        s1_New.greet1();
+        // s1_New.greet2();
+
+        System.out.println("-----------------");
+
         Sample2 s2_New = new Sample2();
         s2_New.hello();
         s2_New.greet2();
