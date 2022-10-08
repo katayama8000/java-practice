@@ -5,4 +5,8 @@ public class Child extends Parent {
         System.out.println("Child");
     }
 
+    public void sayBow() {
+        System.out.println("Bow");
+    }
+
 }

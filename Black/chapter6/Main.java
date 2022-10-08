@@ -13,6 +13,9 @@ public class Main {
         // オーバーライドの条件は、サブクラスで、スーパークラスのメソッドを上書きすること
 
         Sample sample = Sample.getInstance();
+        System.out.println(sample);
+        Sample sample100 = Sample.getInstance();
+        System.out.println(sample100);
         // シングルトンパターン
         // インスタンスを一つしか作らないようにするパターン
         // インスタンスを作るときに、コンストラクターをprivateにする
@@ -20,7 +23,6 @@ public class Main {
         // getInstanceメソッドで、インスタンスがnullのときだけインスタンスを作る
 
         Sample2 sample2 = new Sample2();
-        sample2.Sample2();
 
         Sample3 sample3 = new Sample3();
 
